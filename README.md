@@ -1,4 +1,4 @@
-﻿# PySpark-Project-Data-Analysis
+﻿# Sales Data Analysis with PySpark
 
 Go through PySpark_Project.md For RAW Data
 
